@@ -1,0 +1,21 @@
+﻿body {
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    vertical-align: baseline;
+}
+h1 {
+    font-size: 24px !important;
+    color: #fff!important;
+}
+.page-header {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #2196f3;
+ 
+   
+}
+.row{margin: 0!important;}

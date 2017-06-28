@@ -1,0 +1,19 @@
+﻿body {
+    padding: 0;
+    background-color:#fff;
+    margin: 0;
+}
+header {
+    background-color: #b2b2b2;
+    padding: 10px 20px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input[type="text"]{
+    max-width: 200px;
+    height: 30px;
+    border: 1px solid #666666;
+    border-radius: 10px;
+    width: 100%;
+}
+
